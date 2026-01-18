@@ -29,8 +29,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ACHMEDIUS&theme=dark&background=00000000&hide_border=true&date_format=j%20M%5B%20Y%5D">
-    <img src="https://streak-stats.demolab.com?user=ACHMEDIUS&background=00000000&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=darhebkf&theme=dark&background=00000000&hide_border=true&date_format=j%20M%5B%20Y%5D">
+    <img src="https://streak-stats.demolab.com?user=darhebkf&background=00000000&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
   </picture>
 </p>
 
@@ -88,12 +88,12 @@ link: T.B.A.
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=achmedius&hide_border=true&show_icons=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF">
-  <img src="https://github-readme-stats.vercel.app/api?username=achmedius&theme=swift&hide_border=true&show_icons=true" alt="GitHub Stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=darhebkf&hide_border=true&show_icons=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF">
+  <img src="https://github-readme-stats.vercel.app/api?username=darhebkf&theme=swift&hide_border=true&show_icons=true" alt="GitHub Stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=achmedius&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmedius&layout=compact&theme=swift&hide_border=true&langs_count=8" alt="Top Languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=darhebkf&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darhebkf&layout=compact&theme=swift&hide_border=true&langs_count=8" alt="Top Languages">
 </picture>
 
 <br>
