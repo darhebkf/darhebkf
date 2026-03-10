@@ -7,14 +7,15 @@
   </a>
 </p>
 
-<p align="center">
+<!-- Maybe something for later? -->
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Local+AI+Pioneer;Orange+Cat+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=1000&size=22">
       <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Local+AI+Pioneer;Orange+Cat+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22" alt="Typing SVG">
     </picture>
   </a>
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://www.youtube.com/@darhebfk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/youtube.svg"><img width="32px" alt="YouTube" title="YouTube" src="assets/icons/dark/youtube.svg"/></picture></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://www.instagram.com/darhebfk/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/instagram.svg"><img width="32px" alt="Instagram" title="Instagram" src="assets/icons/dark/instagram.svg"/></picture></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://www.linkedin.com/in/behradfarahani/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/linkedin.svg"><img width="32px" alt="LinkedIn" title="LinkedIn" src="assets/icons/dark/linkedin.svg"/></picture></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://discord.gg/UFfeTQQN2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/discord.svg"><img width="32px" alt="Discord" title="Discord" src="assets/icons/dark/discord.svg"/></picture></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://huggingface.co/behradlabs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/huggingface.svg"><img width="32px" alt="Hugging Face" title="Hugging Face" src="assets/icons/dark/huggingface.svg"/></picture></a>
@@ -30,7 +31,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=darhebkf&theme=dark&background=00000000&hide_border=true&date_format=j%20M%5B%20Y%5D">
-    <img src="https://streak-stats.demolab.com?user=darhebkf&background=00000000&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+    <img src="https://readme-streaks.darhebkf.com?user=darhebkf&background=00000000&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
   </picture>
 </p>
 
@@ -89,11 +90,11 @@ link: T.B.A.
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=darhebkf&hide_border=true&show_icons=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF">
-  <img src="https://github-readme-stats.vercel.app/api?username=darhebkf&theme=swift&hide_border=true&show_icons=true" alt="GitHub Stats">
+  <img src="https://readme-stats.darhebkf.com/api?username=darhebkf&theme=swift&hide_border=true&show_icons=true" alt="GitHub Stats">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=darhebkf&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darhebkf&layout=compact&theme=swift&hide_border=true&langs_count=8" alt="Top Languages">
+  <img src="https://readme-stats.darhebkf.com/api/top-langs/?username=darhebkf&layout=compact&theme=swift&hide_border=true&langs_count=8" alt="Top Languages">
 </picture>
 
 <br>
